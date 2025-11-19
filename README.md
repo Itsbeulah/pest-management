@@ -55,7 +55,7 @@ Vision based pest identification and control solution enables identification of 
 
 ## The architecture
 
-![Pest Pro Architecture](https://github.com/aniketb97/pest_management/blob/main/Architecture.png)
+![Pest Pro Architecture](https://github.com/itsbeulah/pest_management/blob/main/Architecture.png)
 
 1. All incoming message transactions will be track.
 2. Will collect non-predicted images.
@@ -88,14 +88,14 @@ You can find a running system to test at [this link](https://3.7.103.170/pestman
 
 ## Authors
 
-<a href="https://github.com/aniketb97/pest_management/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=aniketb97/pest_management" />
+<a href="https://github.com/itsbeulah/pest_management/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=itsbeulah/pest_management" />
 </a>  
 
 All authors:  
 - [Jagadisa Padhy](https://github.com/jagadish4893) (Team Leader)  
 - [Shreyas Gawande](https://github.com/shreyasmakerslab)
-- [Aniket Banginwar](https://github.com/aniketb97)
+- [Aniket Banginwar](https://github.com/itsbeulah)
 
 
 ## License
